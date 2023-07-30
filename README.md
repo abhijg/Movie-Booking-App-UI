@@ -3,7 +3,7 @@
 
  This repository contains the user interface (UI) code for a Movie Ticket Booking App developed using Flutter. The app allows users to browse movies, view movie details, and book tickets for their favorite movies.
 
- ![App Screenshot](APP.png)
+
 
 # Getting Started
  To run the app on your local machine, make sure you have Flutter installed. If you don't have Flutter installed, follow the installation guide on the official Flutter website: Flutter Installation Guide
