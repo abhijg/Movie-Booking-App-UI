@@ -10,7 +10,7 @@
 
   Once Flutter is installed, follow these steps:
 
- Clone the repository: git clone https://github.com/your-username/movie-ticket-booking-app.git
+ Clone the repository: git clone [https://github.com/your-username/movie-ticket-booking-app.git](https://github.com/abhijg/Movie-Booking-App-UI/tree/main)
  Navigate to the project directory: cd movie-ticket-booking-app
  Fetch dependencies: flutter pub get
  Connect your Android or iOS device/emulator.
